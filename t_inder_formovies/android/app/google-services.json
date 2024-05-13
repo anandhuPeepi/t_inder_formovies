@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741110175081",
+    "project_id": "t-inder-formovies-5xosja",
+    "storage_bucket": "t-inder-formovies-5xosja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741110175081:android:3c3d0b75053c52c18659f8",
+        "android_client_info": {
+          "package_name": "com.mycompany.tinderformovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukf6FUwKTFqnlKBuvfVuS2pC6XRYqw7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
